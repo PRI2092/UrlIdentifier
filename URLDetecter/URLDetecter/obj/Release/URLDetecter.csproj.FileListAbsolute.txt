@@ -1,0 +1,10 @@
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\bin\Release\URLDetecter.exe.config
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\bin\Release\URLDetecter.exe
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\bin\Release\URLDetecter.pdb
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\obj\Release\URLDetecter.exe
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\obj\Release\URLDetecter.pdb
+c:\users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\obj\Release\URLDetecter.csprojResolveAssemblyReference.cache
+C:\Users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\bin\Release\URLDetecter.exe.manifest
+C:\Users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\bin\Release\URLDetecter.application
+C:\Users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\obj\Release\URLDetecter.exe.manifest
+C:\Users\abc\documents\visual studio 2013\Projects\URLDetecter\URLDetecter\obj\Release\URLDetecter.application
